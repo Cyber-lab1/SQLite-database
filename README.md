@@ -24,25 +24,29 @@ This repository serves as a resource for anyone interested in learning about SQL
 ## Getting Started
 
 To get started with SQLite, you can:
-To get started with SQLite, you can:
 
 1. [Create a new database](#creating-a-database)
-   - ![Create Database](https://via.placeholder.com/150)
-
 2. [Perform CRUD operations](#performing-crud-operations)
-   - ![Perform CRUD](https://via.placeholder.com/150)
-
 3. [Set up 2FA for security](#setting-up-2fa)
-   - ![Set up 2FA](https://via.placeholder.com/150)
-
 4. [Explore advanced features](#advanced-features)
-   - ![Advanced Features](https://via.placeholder.com/150)
 
 
 ## Contributing
 
-We welcome contributions from the community. Whether you want to fix a bug, improve documentation, or add a new feature, please read our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-or contact @yazanhwedi
+## Contributing
+
+We value and appreciate contributions from the community. If you'd like to be a part of this project, there are several ways you can help:
+
+- **Bug Fixes:** If you come across any bugs or issues, please don't hesitate to [report them](https://github.com/yazanhwedi/SQLite database/issues).
+
+- **Documentation Improvements:** Clear and well-documented projects are more accessible. Help us improve our documentation to benefit all users.
+
+- **New Features:** Have an idea for a new feature or enhancement? Share your thoughts, or feel free to implement it yourself.
+
+To get started, please refer to our [Contributing Guidelines](CONTRIBUTING.md) for detailed information on how to contribute effectively.
+
+If you have questions or need assistance, you can contact us at @yazanhwedi. We're here to help and welcome your involvement in our open-source community.
+
 
 ## License
 
