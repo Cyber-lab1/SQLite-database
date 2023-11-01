@@ -16,7 +16,7 @@ This repository serves as a resource for anyone interested in learning about SQL
 - **Serverless:** No separate server process is required.
 - **Zero-configuration:** Start using it without complex setup.
 - **ACID compliant:** Ensures data consistency and reliability.
-- **Cross-platform:** Available on Windows, macOS, Linux, iOS, and Android.
+- **Cross-platform:** Available on Windows, macOS, Linux, iOS.
 - **Wide adoption:** Used in mobile apps, browsers, and more.
 - **SQL compatibility:** Supports a subset of SQL for data manipulation.
 - **Community and support:** Active community and documentation.
