@@ -24,11 +24,20 @@ This repository serves as a resource for anyone interested in learning about SQL
 ## Getting Started
 
 To get started with SQLite, you can:
+To get started with SQLite, you can:
 
 1. [Create a new database](#creating-a-database)
+   - ![Create Database](https://via.placeholder.com/150)
+
 2. [Perform CRUD operations](#performing-crud-operations)
+   - ![Perform CRUD](https://via.placeholder.com/150)
+
 3. [Set up 2FA for security](#setting-up-2fa)
+   - ![Set up 2FA](https://via.placeholder.com/150)
+
 4. [Explore advanced features](#advanced-features)
+   - ![Advanced Features](https://via.placeholder.com/150)
+
 
 ## Contributing
 
