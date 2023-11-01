@@ -37,7 +37,7 @@ To get started with SQLite, you can:
 
 We value and appreciate contributions from the community. If you'd like to be a part of this project, there are several ways you can help:
 
-- **Bug Fixes:** If you come across any bugs or issues, please don't hesitate to [report them](https://github.com/yazanhwedi/SQLitedatabase/issues).
+- **Bug Fixes:** If you come across any bugs or issues, please don't hesitate to [report them](https://github.com/yazanhwedi/SQLitedatabase).
 
 - **Documentation Improvements:** Clear and well-documented projects are more accessible. Help us improve our documentation to benefit all users.
 
